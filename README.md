@@ -6,4 +6,4 @@
 ### [برای مشاهده پروژه تمرینی شماره 2 در گیت هاب کلیک کنید](https://github.com/ActiveGamers/AutomaticClockTime)
 
 
-**همچنین میتوانید یک تمرین سخت از "پارادوکس مونتی هال" حل کنید:** [کلیک کنید](https://github.com/ActiveGamers/MontyHall)
+## **همچنین میتوانید یک تمرین سخت از "پارادوکس مونتی هال" حل کنید:** [کلیک کنید](https://github.com/ActiveGamers/MontyHall)
